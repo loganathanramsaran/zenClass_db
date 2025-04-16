@@ -1,0 +1,33 @@
+[{
+  "0": {
+    "topic": "JavaScript Basics",
+    "date": {
+      "$date": "2020-10-05T00:00:00.000Z"
+    }
+  },
+  "1": {
+    "topic": "MongoDB Aggregation",
+    "date": {
+      "$date": "2020-10-20T00:00:00.000Z"
+    }
+  },
+  "2": {
+    "topic": "React Hooks",
+    "date": {
+      "$date": "2020-11-01T00:00:00.000Z"
+    }
+  },
+  "_id": {
+    "$oid": "67ff8a3ed15cb2000a71d6cc"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ff8cb0d15cb2000a71d6e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ff8cf8d15cb2000a71d6e6"
+  }
+}]

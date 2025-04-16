@@ -1,0 +1,27 @@
+[{
+  "0": {
+    "_id": {
+      "$oid": "662500000000000000000001"
+    },
+    "name": "Alice",
+    "email": "alice@example.com",
+    "batch": "B42WE",
+    "mentor_id": {
+      "$oid": "6625aaaa0000000000000001"
+    }
+  },
+  "1": {
+    "_id": {
+      "$oid": "662500000000000000000002"
+    },
+    "name": "Bob",
+    "email": "bob@example.com",
+    "batch": "B42WE",
+    "mentor_id": {
+      "$oid": "6625aaaa0000000000000001"
+    }
+  },
+  "_id": {
+    "$oid": "67ff855cd15cb2000a71d6b8"
+  }
+}]
